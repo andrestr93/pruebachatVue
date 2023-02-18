@@ -25,14 +25,15 @@ h3{
 
 .conversation{
 
-    
+    /*
     margin-top: 10px;
     margin-bottom: 10px;
-    background-color: blue;
     padding: 20px  20px ;
     margin-left: 400px;
     margin-right: 50px;
     width: 800px;
+
+    */
 }
 
 .conversation span{
@@ -45,24 +46,12 @@ h3{
 }
 
 
-.invited{
-
-    
-    margin-top: 60px;
-    margin-bottom: 10px;
-    background-color: rgb(227, 219, 219);
-    padding: 20px  20px ;
-    margin-right: 400px;
-    margin-left: 50px;
-    width: 800px;
-}
 
 
-.invited span{
 
-    font-size: 12px;
-}
-.invited p , span{
- color: black;
-}
+
+
+
+
+
 
