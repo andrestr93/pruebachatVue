@@ -1,9 +1,4 @@
 
-*{
-
-    font-family: Arial, Helvetica, sans-serif;
-}
-
 
 hr{
    background-color: black;
@@ -13,37 +8,7 @@ hr{
 
 }
 
-h3{
 
-    text-align: center;
-}
-
-.introduction{
-
-    margin-left: 25px;
-}
-
-.conversation{
-
-    /*
-    margin-top: 10px;
-    margin-bottom: 10px;
-    padding: 20px  20px ;
-    margin-left: 400px;
-    margin-right: 50px;
-    width: 800px;
-
-    */
-}
-
-.conversation span{
-
-    font-size: 12px;
-}
-.conversation p , span{
- color: white;
-
-}
 
 
 
